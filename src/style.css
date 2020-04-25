@@ -1,0 +1,14 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
+}
+
+img{
+  width:30px;
+}
+
+button{
+  float:left;
+}
+
